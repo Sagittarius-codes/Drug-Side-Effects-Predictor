@@ -1,29 +1,2 @@
 # Data and Models
 data/raw/
-data/processed/
-data/splits/
-models/
-outputs/
-
-# Jupyter Notebooks
-.ipynb_checkpoints/
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# IDEs
-.vscode/
-.idea/
-*.swp

@@ -1,5 +1,9 @@
 # Drug Side Effect Predictor
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live%20App-34d399?logo=streamlit&logoColor=white)](https://drug-side-effects-predictor.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-1.x-orange?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 > **Medical Disclaimer:** This project is for educational and portfolio purposes only.
 > Predictions are statistical associations derived from historical drug records — they are not clinical diagnoses.
 > **Do not use this tool to make real medical decisions.**
@@ -276,7 +280,13 @@ Drug-Side-Effect-Predictor/
 
 ## 10. Setup and Usage
 
-### Install dependencies
+### Live demo
+
+**[https://drug-side-effects-predictor.streamlit.app/](https://drug-side-effects-predictor.streamlit.app/)**
+
+No setup required — open the link and start searching drug names directly.
+
+### Install dependencies (local)
 
 ```bash
 pip install scikit-learn pandas numpy scipy joblib streamlit plotly
